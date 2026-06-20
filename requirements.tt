@@ -1,0 +1,10 @@
+
+## 5. requirements.txt (Settings)
+Save as `requirements.txt`.
+
+```text
+flask
+flask-sqlalchemy
+```
+
+---
